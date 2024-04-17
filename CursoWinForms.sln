@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoWinForms", "CursoWinForms\CursoWinForms.csproj", "{07F27DE4-587F-4902-83ED-5C496E45E113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoWinFormsBiblioteca", "CursoWinFormsBiblioteca\CursoWinFormsBiblioteca.csproj", "{5D5C881C-9A6A-498F-8E0D-BB8059B49454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F27DE4-587F-4902-83ED-5C496E45E113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F27DE4-587F-4902-83ED-5C496E45E113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F27DE4-587F-4902-83ED-5C496E45E113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F27DE4-587F-4902-83ED-5C496E45E113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5C881C-9A6A-498F-8E0D-BB8059B49454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5C881C-9A6A-498F-8E0D-BB8059B49454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5C881C-9A6A-498F-8E0D-BB8059B49454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5C881C-9A6A-498F-8E0D-BB8059B49454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7624C38C-BD4D-491A-8E35-101ADBEF4313}
+	EndGlobalSection
+EndGlobal
